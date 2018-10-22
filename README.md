@@ -8,15 +8,13 @@ We're a [Code for America Brigade](http://brigade.codeforamerica.org/brigade/BMG
 
 ## Stay in the loop
 
-There is a Slack group set up: https://bmghack.slack.com
-
-[Link to join](https://join.slack.com/t/bmghack/shared_invite/enQtMjM5ODQyNzE5MTI0LTMwYWZmYzU2NjU0MmQ5MGY4MzBhNGJhNmExYmZkMGNlMzBjMDMxNDE4ODM4ZTczYzI1YjVlYzU4OGQ1YjczODk)
+There is a Slack group set up: [bmghack.slack.com](https://bmghack.slack.com).  [Click here to join](https://join.slack.com/t/bmghack/shared_invite/enQtMjM5ODQyNzE5MTI0LTMwYWZmYzU2NjU0MmQ5MGY4MzBhNGJhNmExYmZkMGNlMzBjMDMxNDE4ODM4ZTczYzI1YjVlYzU4OGQ1YjczODk)
 
 We've also configured a low volume Google Group so that everyone can stay connected: [Google Group](https://groups.google.com/a/bloomington.in.gov/forum/#!forum/civic-hacking)
 
 ## Meeting schedule
 
-Meetings happen on the second Thursday of every month, although lately more activity has been happening on Slack. Tech skills aren't necessary to participate, only a willingness to collaborate to make our community better. 
+Meetings happen on the second Thursday of every month, although lately more activity has been happening on Slack. Tech skills aren't necessary to participate, only a willingness to collaborate to make our community better.
 
 Our scheduled meeting for 2018 are:
 
@@ -26,12 +24,8 @@ Our scheduled meeting for 2018 are:
 
 ## Projects
 
-Have an idea for a civic problem that needs a solution? Add it to the [project page](https://github.com/BMGhack/bmghack.github.io/wiki) and find others interested in solving the problem.
-
-http://brigade.codeforamerica.org/brigade/projects
+Have an idea for a civic problem that needs a solution? Add it to the [project page](https://github.com/BMGhack/bmghack.github.io/wiki) and find others interested in solving the problem.  You can also browse the Code for America [Civic Tech Projects](http://brigade.codeforamerica.org/brigade/projects) directory
 
 ## More info & Supporting documents
 
 [![About Code for America Brigades](https://img.youtube.com/vi/mYzMl_HnEZU/0.jpg)](https://www.youtube.com/watch?v=mYzMl_HnEZU)
-
-
